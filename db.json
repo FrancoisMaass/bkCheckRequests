@@ -1,0 +1,18 @@
+  {
+    "entityName": "JobApplicationBackgroundCheckRequest",
+    "payload": [
+      {
+        "applicationId": 1281,
+        "vendorCode": "PIMS",
+        "orderStatus": "RECEIVED",
+        "responseCode": "202",
+        "responseDetail": "The background check has been accepted",
+        "vendorOrderNo": "PIMS1281",
+		"requestId": "23",
+        "__metadata": {
+          "type": "SFOData.JobApplicationBackgroundCheckRequest",
+          "uri": "JobApplicationBackgroundCheckRequest(requestId=23)"
+        }
+      }
+    ]
+  }
